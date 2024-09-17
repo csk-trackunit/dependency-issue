@@ -2,7 +2,7 @@
   "name": "@example/pub-lib",
   "version": "0.0.1",
   "dependencies": {
-    "@nx/rollup": "19.6.5",
+    "@nx/rollup": "19.7.3",
     "@rollup/plugin-url": "^8.0.2",
     "@svgr/rollup": "^8.1.0"
   }
